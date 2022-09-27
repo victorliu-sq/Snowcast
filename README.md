@@ -1,8 +1,6 @@
-Snowcast is an Internet Radio Broadcasting Station designed by CSCI1680 stuff in Brown University to familiarize students with socket programming, systems programming and building concurrent applications. The whole system is about 1000 lines of code and students will implement this assignment from scratch.
+Snowcast is an Internet Radio Broadcasting Station designed by CSCI1680 stuff in Brown University for students to implement socket programming, systems programming and building concurrent applications from scratch. The whole system is 1200 lines of Go.
 
-
-
-![](C:\Users\jiaxi\Snowcast\1680.png)
+![](Figures\1680.png)
 
 # Initialize
 
